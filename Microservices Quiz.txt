@@ -1,0 +1,9 @@
+Microservices Quiz
+1. What are Microservices?
+Microservice architecture is an architectural style that structures an application as a collection of services that are Independently deployable, Loosely coupleds, Owned by a small team.
+
+2. What are the benefits of using Microservices?
+microservices architecture offers numerous benefits, including scalability, resilience, agility, flexibility, reusability, modularization, and improved collaboration.
+
+3.What are the drawbacks of using microservices?
+ complexity, testing and monitoring difficulties, communication overhead, and coordination challenges across small teams.
